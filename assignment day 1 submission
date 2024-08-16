@@ -62,5 +62,5 @@ Importance: Prompt engineering is critical in getting the most out of AI models,
 
 Vague Prompt: "Tell me something."
 Issue: This prompt is too broad and lacks direction, leading to potentially irrelevant or unhelpful responses.
-Improved Prompt: "Tell me about the impact of renewable energy on reducing carbon emissions."
+Improved Prompt: "tell me about the impact of renewable energy on reducing carbon emissions."
 Effectiveness: This prompt is clear, specific, and concise, guiding the AI to provide a focused and relevant response on a particular topic. The improved prompt is more effective because it sets clear expectations and narrows the scope of the response.
